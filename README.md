@@ -15,4 +15,4 @@ Kinesis
   - Describe Stream
   - Get Shard Iterator
   
-You may find the video walkthrough of this implementation [here]()
+You may find the video walkthrough of this implementation [here](https://youtu.be/HoKP9V_5ZsY)
